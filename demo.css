@@ -1,0 +1,225 @@
+@media (min-width:1200px)
+{
+    .container{
+        width: 1270px;
+    }
+}
+.container{
+    padding: 15px ;
+}
+.mm_header{
+    position: relative;
+    border-bottom: 1px solid rgb(174, 183, 190);
+}
+a{
+    text-decoration: none;
+}
+.mm_header_logo{
+    float: left;
+    width: 313px;
+    height: 70px;
+    padding: 5px 0px;
+}
+.mm_header_logo_mymedi{
+    font-size: 20px;
+    width: 216px;
+    height: 45px;
+    color: red;
+}
+.mm_header_search_L{
+    float: left;
+    padding: 10px 0px;
+}
+.mm_header_search{
+    border-radius: 25px;
+    width: 519px;
+    padding: 7px;
+    background-color: #F0F2F5;
+}
+.mm_header_search_icon{
+    float: right;
+    padding-right: 10px;
+    padding-top: 5px;
+}
+#s-726{
+    width: 450px;
+    height: 30px;
+    border: 0ch;
+    background-color: #F0F2F5;
+}
+.mm_header_right{
+    float: right;
+    padding: 10px 0px 10px 100px;
+    width: 408px;
+    height: 70px;
+}
+.mm_header_right_menu{
+    padding:  0px 20px 0px 0px;;
+    width: 300px;
+    float: left;
+    height: 44px;
+}
+.mm_header_right_menu_contai_english{
+    float: left;
+    list-style: none;
+    width: 85px;
+    position: relative;
+}
+.menu_contai_english{
+    display: none;
+    position: absolute;
+    background-color: white;
+    box-shadow: 1px 3px 5px 0px
+}
+.mm_header_right_menu_contai_english:hover .menu_contai_english{
+    display: block;
+    width: 85px;
+    padding-left: 0px;
+}
+.mm_header_right_menu_contai_use:hover .menu_contai_english{
+    display: block;
+    width: 85px;
+    padding-left: 0px;
+}
+.mm_header_right_menu_contai_english:hover p{
+    color: #FF9923;
+}
+.menu_contai_english:hover a{
+    color: #FF9923;
+}
+p{
+    margin: 12px 0 14px;
+}
+.mm_header_right_menu_user{
+    float: left;
+    width: 40px;
+    padding: 10px 0px 0px 11px;
+}
+.mm_header_right_menu_love{
+    float: left;
+    width: 40px;
+    padding: 10px 0px 0px 5px;
+}
+.mm_header_right_menu_cart{
+    float: left;
+    width: 30px;
+    padding: 10px 0px 0px 5px;
+}
+.mm_header_right_menu_contai_use{
+    padding-left: 20px;
+    position: relative;
+}
+.header_menu_home{
+    display: inline-block;
+    width: 948px;
+    height: 25px;
+    padding-left: 0px;
+    margin-bottom: 0px;
+}
+.fa-bars{
+    margin-right: 10px;
+}
+.header_menu_home_child_Products{
+    width: 100px;
+    float: left;
+    list-style: none;
+    font-size: 17px;
+    font-family: Jost;
+    font-style: normal;
+    font-weight: 500;
+    color: #103178;
+    margin-right: 25px;
+}
+.header_menu_home_child_HMS{
+     width: 180px;
+    float: left;
+    list-style: none;
+    font-size: 17px;
+    font-family: Jost;
+    font-style: normal;
+    font-weight: 500;
+    color: #103178;
+    margin-right: 25px;
+}
+.header_menu_home_child_Homepages{
+     width: 100px;
+    float: left;
+    list-style: none;
+    font-size: 17px;
+    font-family: Jost;
+    font-style: normal;
+    font-weight: 500;
+    color: #103178;
+    margin-right: 25px;
+}
+.header_menu_home_child_Shop{
+     width: 38px;
+    float: left;
+    list-style: none;
+    font-size: 17px;
+    font-family: Jost;
+    font-style: normal;
+    font-weight: 500;
+    color: #103178;
+    margin-right: 25px;
+}
+.header_menu_home_child_Pages{
+     width: 60px;
+    float: left;
+    list-style: none;
+    font-size: 17px;
+    font-family: Jost;
+    font-style: normal;
+    font-weight: 500;
+    color: #103178;
+    margin-right: 25px;
+}
+.header_menu_home_child_Collection{
+     width: 90px;
+    float: left;
+    list-style: none;
+    font-size: 17px;
+    font-family: Jost;
+    font-style: normal;
+    font-weight: 500;
+    color: #103178;
+    margin-right: 25px;
+}
+.header_menu_home_child_Blog{
+     width: 33px;
+    float: left;
+    list-style: none;
+    font-size: 17px;
+    font-family: Jost;
+    font-style: normal;
+    font-weight: 500;
+    color: #103178;
+    margin-right: 25px;
+}
+.header_menu_home_child_Contact{
+     width: 55px;
+    float: left;
+    list-style: none;
+    font-size: 17px;
+    font-family: Jost;
+    font-style: normal;
+    font-weight: 500;
+    color: #103178;
+    margin-right: 25px;
+}
+.header_menu_need{
+    width: 292px;
+    float: right;
+    color: #5B6C8F;
+    font-size: 16px;
+    font-family: Jost;
+    font-weight: 500;
+}
+.img_show{
+    width: 1500px;
+    height: 600px;
+    margin: 10px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    position: relative;
+	text-align: center;
+}
